@@ -8,8 +8,8 @@ Current live manifest:
 
 ```json
 {
-  "latestIosBuild": "0.9.15",
-  "latestAndroidBuild": "105"
+  "latestIosBuild": "0.9.17",
+  "latestAndroidBuild": "107"
 }
 ```
 
